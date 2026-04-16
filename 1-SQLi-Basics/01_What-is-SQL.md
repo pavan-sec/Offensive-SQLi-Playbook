@@ -45,6 +45,6 @@ SQL uses operators (`=`, `>`, `<`, `<>`) to compare data. It also uses wildcards
 
 ## 📚 Further Learning
 As an offensive security engineer, you do not need to be a database administrator, but a solid foundation of SQL syntax is highly recommended. To deep-dive into standard SQL queries, check out:
-* [NetworkChuck's SQL Series](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1K) (Excellent visual breakdowns).
+* [NetworkChuck's SQL](https://youtu.be/xiUTqnI6xk8?si=HVnORPFl7b1locX6) (Excellent visual breakdowns).
 * [W3Schools SQL Tutorial](https://www.w3schools.com/sql/) (The ultimate quick-reference cheat sheet).
 * [SQL in Telugu](https://youtu.be/XEqTRwT9cW4?si=2hrZzCa102zEvieB),[SQL in Hindi](https://youtu.be/yE6tIle64tU?si=pUj6DPjqcKITQs1J)(want to learn SQL from basics use these tutorial's).
