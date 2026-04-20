@@ -27,7 +27,7 @@ Custom-built reference guides mapping out syntax differences across major databa
 Step-by-step diagnostic flowcharts for identifying and exploiting specific SQLi categories.
 * **`1-Error-Based-Workflow.md`**: Extracting data directly through forced syntax errors.
 * **`2-Union-Attack-Workflow.md`**: The complete chain for in-band extraction (from `ORDER BY` to `information_schema`).
-* **`3-Blind-SQLi-Workflow.md`**: The diagnostic tree for Boolean-based extraction.
+* **`3-Boolean-Based-Workflow.md`**: The diagnostic tree for Boolean-based extraction.
 * **`4-Time-Based-Workflow.md`**: Execution flow for time-delay data extraction.
 
 ### 📁 4-Lab-Writeups
