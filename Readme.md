@@ -11,11 +11,10 @@ This playbook is designed to shift the focus from "throwing payloads at a wall" 
 
 ### 📁 1-SQLi-Basics
 Foundational knowledge covering the core concepts of relational databases, SQL syntax, and how backend logic processes user input.
-* **`01_What-is-SQLi.md`**: Core definitions and the mechanics of query manipulation.
-* **`02_Types-of-SQLi.md`**: Breakdown of In-band, Inferential (Blind), and Out-of-band SQLi.
+* **`01_What-is-SQL.md`**: Core definitions and the mechanics of query manipulation.
+* **`02_What-of-SQLi.md`**: Breakdown of In-band, Inferential (Blind), and Out-of-band SQLi.
 * **`03_Identification-Techniques.md`**: Methods for locating injection points in web applications.
-* **`04_Detection-Notes.md`**: How databases respond to syntax errors and anomalies.
-* **`05_Prevention-and-Mitigation.md`**: Defensive strategies (Parameterized queries, WAFs, input sanitization).
+* **`04_Prevention-and-Mitigation.md`**: Defensive strategies (Parameterized queries, WAFs, input sanitization).
 
 ### 📁 2-Cheat-Sheets
 Custom-built reference guides mapping out syntax differences across major database engines (MySQL, MSSQL, PostgreSQL, Oracle, SQLite).
