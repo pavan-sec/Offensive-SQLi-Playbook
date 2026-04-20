@@ -1,2 +1,0 @@
-# Miscellaneous SQLi Cheat Sheet
-

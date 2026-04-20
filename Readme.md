@@ -22,7 +22,6 @@ Custom-built reference guides mapping out syntax differences across major databa
 * **`2-Union-Based.md`**: Syntax for column counting and string concatenation.
 * **`3-Blind-SQLi.md`**: Boolean payloads for True/False inferential testing.
 * **`4-Time-Based.md`**: Stopwatch/Sleep commands across all major databases.
-* **`5-Miscellaneous.md`**: Additional edge cases, WAF bypasses, and encoding tricks.
 
 ### 📁 3-Attack-Workflows
 Step-by-step diagnostic flowcharts for identifying and exploiting specific SQLi categories.
