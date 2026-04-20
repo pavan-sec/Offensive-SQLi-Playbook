@@ -20,7 +20,7 @@ Foundational knowledge covering the core concepts of relational databases, SQL s
 Custom-built reference guides mapping out syntax differences across major database engines (MySQL, MSSQL, PostgreSQL, Oracle, SQLite).
 * **`1-Error-Based.md`**: Payloads for triggering verbose database errors.
 * **`2-Union-Based.md`**: Syntax for column counting and string concatenation.
-* **`3-Blind-SQLi.md`**: Boolean payloads for True/False inferential testing.
+* **`3-Boolean-Based.md`**: Boolean payloads for True/False inferential testing.
 * **`4-Time-Based.md`**: Stopwatch/Sleep commands across all major databases.
 
 ### 📁 3-Attack-Workflows
@@ -29,7 +29,6 @@ Step-by-step diagnostic flowcharts for identifying and exploiting specific SQLi 
 * **`2-Union-Attack-Workflow.md`**: The complete chain for in-band extraction (from `ORDER BY` to `information_schema`).
 * **`3-Blind-SQLi-Workflow.md`**: The diagnostic tree for Boolean-based extraction.
 * **`4-Time-Based-Workflow.md`**: Execution flow for time-delay data extraction.
-* **`5-Automation-Scripts.md`**: Custom scripts and notes for automating tedious extraction processes.
 
 ### 📁 4-Lab-Writeups
 Highlight reports detailing the exploitation process for specific training scenarios. *(Note: Exact flags and target URLs are redacted to respect the integrity of the training platforms.)*
