@@ -11,7 +11,7 @@ If a developer implements Parameterized Queries correctly, traditional SQL Injec
 **The Concept:** Instead of dynamically gluing user input directly into a SQL string, the developer writes the SQL query first, compiles it, and *then* inserts the user input as strict parameters. The database engine treats the input exclusively as literal data, never as executable code.
 
 ** Vulnerable to SQLi via String Concatenation :**
-```php
+php
 // PHP Example
 $username = $_POST["username"];
 // The input is glued directly into the query
