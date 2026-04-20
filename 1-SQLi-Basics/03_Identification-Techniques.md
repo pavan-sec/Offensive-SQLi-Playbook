@@ -35,7 +35,7 @@ Sometimes, the injection point isn't where the payload executes.
 
 ---
 
-## 🎧 Part 2: Detection Notes (Listening to the Database)
+## 🎧 Part 2: Detection (Listening to the Database)
 
 Once you have identified an opening, you "poke" it with a special character (like a single quote `'`) to break out of the developer's intended string. The way the database reacts tells you exactly what kind of vulnerability you are dealing with.
 
