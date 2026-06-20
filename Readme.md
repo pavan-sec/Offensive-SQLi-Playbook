@@ -30,11 +30,6 @@ Step-by-step diagnostic flowcharts for identifying and exploiting specific SQLi 
 * **`3-Boolean-Based-Workflow.md`**: The diagnostic tree for Boolean-based extraction.
 * **`4-Time-Based-Workflow.md`**: Execution flow for time-delay data extraction.
 
-### 📁 4-Lab-Writeups
-Highlight reports detailing the exploitation process for specific training scenarios. *(Note: Exact flags and target URLs are redacted to respect the integrity of the training platforms.)*
-
-### 📁 5-References
-A curated collection of external tools, documentation, and resources utilized during the research and testing phases.
 
 ## 🧠 Core Philosophy
 A successful penetration test requires understanding the system better than the people who built it. The methodologies documented here emphasize:
